@@ -1,4 +1,5 @@
-**Customer Support Chatbot**
+    **Customer Support Chatbot**
+
 This repository contains the code for an AI-powered customer support chatbot. The chatbot is designed to assist users with common inquiries and issues related to our product/service.
 
 Features
@@ -22,8 +23,8 @@ Run the chatbot script:
 python chatbot.py
 Follow the prompts to interact with the chatbot. Type exit to quit.
 
-Training Data
-The chatbot is trained on domain-specific data, including FAQs, troubleshooting scenarios, and customer support interactions. The training data is not included in this repository but can be obtained from [source].
+    **Training Data**
+The chatbot is trained on domain-specific data, including FAQs, troubleshooting scenarios, and customer support interactions. The training data is not included in this repository but can be obtained from kaggle.
 
-Contributing
+    **Contributing**
 Contributions are welcome! If you encounter any issues or have suggestions for improvement, please open an issue or submit a pull request.
